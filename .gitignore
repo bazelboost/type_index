@@ -1,2 +1,3 @@
 doc/autodoc.xml
 doc/html
+/bazel-*
